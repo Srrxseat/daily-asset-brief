@@ -111,3 +111,27 @@
 ---
 
 <!-- ANALYSIS LOG START — DO NOT EDIT MANUALLY -->
+
+---
+
+### 2026-05-24 — Trump ประกาศ US-Iran Peace Deal
+
+**Catalyst หลัก**: Trump ประกาศข้อตกลงสันติภาพ US-Iran (23 พ.ค. 2026) รวมถึงการเปิดช่องแคบฮอร์มุซ ซึ่งปิดโดยพฤตินัยตั้งแต่ 28 ก.พ. 2026
+
+**ทองคำ / เงิน** (Gold $4,735 | Silver $74–75)
+- Institutional: Neutral-Bullish — geopolitical premium ลด แต่ถ้าน้ำมันลด → Fed ลดดอกเบี้ยเร็วขึ้น → real yield ขาลง → bullish gold ระยะ 3–6 เดือน; BofA ยืนเป้า $6,000
+- Whale: Hold/Accumulate on dip — GLD inflows ต่อเนื่อง OI ยังสูง ยังไม่ปิด position
+- Swing: Bullish — demand zone $4,500–4,600 ยืนแล้ว เป้า $4,900–5,000 stop ใต้ $4,480
+- Day: Neutral — รอ confirmation ข้อตกลง liquidity zone $4,650–4,700
+
+**น้ำมัน** (WTI $96.60 | Brent $103.54)
+- Institutional: Bearish — การเปิดฮอร์มุซ = supply กลับมา; IEA "red zone" หากไม่เปิดก่อนฤดูร้อน; เป้า WTI $78–82 (3–6M)
+- Whale: Bearish — short cover $98–100 เป้า $88–90 OPEC+ ยังไม่เปิดวาล์วเพิ่ม
+- Swing: Bearish — reversal setup short near $98–100 เป้า $88–90 stop เหนือ $101
+- Day: Bearish — short on bounce $97–98 เป้า $94–95
+
+**Bitcoin** (BTC $76,857)
+- Institutional: Bullish — Clarity Act progress + risk-on shift; ARK Invest เป้า $16T market cap ภายในปี 2030
+- Whale: Bullish cautious — Hyperliquid whale net long สูงสุดในปี 2026; แต่ broad whale distribution ยังมีอยู่
+- Swing: Bullish — $76K support hold เป้า $82,000–85,000 stop ใต้ $73,500
+- Day: Neutral-Bullish — long near $76,500–77,000 เป้า $78,500–79,500 stop ใต้ $75,800
