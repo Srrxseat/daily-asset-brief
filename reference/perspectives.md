@@ -111,3 +111,25 @@
 ---
 
 <!-- ANALYSIS LOG START — DO NOT EDIT MANUALLY -->
+
+### 2026-05-24 — สัญญาณสงบศึกอิหร่าน vs. ความกังวล Stagflation
+
+**Macro Context:** US-Iran peace talks progressing (Trump suspended strikes, Rubio: "good signs"), stalled over Hormuz tolls. CPI Apr 3.8%, PPI 6%. Fed Chair Warsh (since May 16) signals rates elevated; ~55% probability of rate hike by Oct. DXY resilient.
+
+**Gold ($4,500/oz) / Silver ($75.7/oz)**
+- Institutional: Neutral-Bearish ST | thesis intact LT, but rate hike risk = reduce allocation
+- Whale: Bearish | COT non-commercial net longs declining, trim before macro events
+- Swing: Bearish | Double top $4,600, testing $4,450–4,500 support; break → $4,300
+- Day: Bearish | Sell rebound $4,530–4,550, target $4,460, stop $4,575
+
+**Oil (Brent $103.54 / WTI $96.60)**
+- Institutional: Neutral | Range $90–100 through year-end even if Hormuz reopens June
+- Whale: Neutral-Bearish | OI declining = take profit not new accumulation
+- Swing: Bearish | Weekly support $100 (Brent) broken; target $93–95; reversal risk if deal collapses
+- Day: Bearish | Sell rallies $99–101 Brent; watch London/NY open headline risk
+
+**Bitcoin (~$77,000)**
+- Institutional: Bullish LT | Clarity Act + ARK $16T thesis; rate hike = ST caution
+- Whale: Bullish | 25,644 BTC exchange outflow 24h = accumulation, not distribution
+- Swing: Neutral-Bullish | Weekly close >$78k needed to confirm reversal; target $82–85k
+- Day: Bullish | Peace deal momentum; buy dip $76–76.5k; resistance $78.5–79k
