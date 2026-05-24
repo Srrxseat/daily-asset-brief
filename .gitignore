@@ -1,0 +1,22 @@
+# Environment — ห้าม commit ไฟล์นี้
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code local config (ถ้ามี secrets)
+.claude/settings.local.json
+
+# Logs
+*.log
+logs/
