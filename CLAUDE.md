@@ -17,5 +17,5 @@ Remote Routine skill ที่รันทุกวัน วิจัยข่�
 
 ## Environment Variables Required
 ```
-GITHUB_OWNER, GITHUB_REPO, LINE_CHANNEL_ACCESS_TOKEN (75lbJVwQmqzFSmCBSk/k9xOU/YlnHJdbpO0ezWGrydvStIok5macIXG8ErCocwOs0SelZRYPe21joWMLXrTLhFObff3rEgWSjGZSvQKKSLH18Geg7TAhKHxRYSpcWulRj7yKQjCM4LbJamqv1T3lIwdB04t89/1O/w1cDnyilFU=), LINE_TO (U42f9f3c6d398f9d4052171d046fff754)
+GITHUB_OWNER, GITHUB_REPO, LINE_CHANNEL_ACCESS_TOKEN (token form LINE Developers), LINE_TO (User ID)
 ```
